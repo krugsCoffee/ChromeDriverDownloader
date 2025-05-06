@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeDriverDownloader", "ChromeDriverDownloader\ChromeDriverDownloader.csproj", "{C6016350-F3ED-4BF9-B907-951BD03309E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeHelpers", "CoffeeHelpers\CoffeeHelpers.csproj", "{55ABB255-23BE-475B-97B0-625674235ED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeDriverDownloader.Tests", "ChromeDriverDownloader.Tests\ChromeDriverDownloader.Tests.csproj", "{4C7FEDA0-834A-4103-9BC9-202305AF44CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6016350-F3ED-4BF9-B907-951BD03309E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6016350-F3ED-4BF9-B907-951BD03309E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6016350-F3ED-4BF9-B907-951BD03309E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6016350-F3ED-4BF9-B907-951BD03309E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55ABB255-23BE-475B-97B0-625674235ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55ABB255-23BE-475B-97B0-625674235ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55ABB255-23BE-475B-97B0-625674235ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55ABB255-23BE-475B-97B0-625674235ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7FEDA0-834A-4103-9BC9-202305AF44CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7FEDA0-834A-4103-9BC9-202305AF44CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7FEDA0-834A-4103-9BC9-202305AF44CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7FEDA0-834A-4103-9BC9-202305AF44CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94C06E72-C311-48C4-B98C-5ED948B8769A}
+	EndGlobalSection
+EndGlobal
